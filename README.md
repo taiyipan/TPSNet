@@ -12,7 +12,7 @@ New York University
     <li>
       <a href="#about-the-project">About This Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#implementation">Implementation</a></li>
       </ul>
     </li>
     <li>
@@ -55,7 +55,7 @@ Use the `README.md` to get started.
 
 
 
-### Built With
+### Implementation
 
 This project is built with the below given major frameworks and libraries. The code is primarily based on python. Some plugins (Weights and Biasis and Matplotlib) are added for easy visualization of the work (and is not needed for training).
 
