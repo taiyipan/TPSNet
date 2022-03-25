@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# TPSNet: A Memory Efficent ResNet for Image Classification
+# TPSNet: A Memory Efficient ResNet for Image Classification
 By [Sudharsan Ananth](https://sudharsanananth.wixsite.com/sudharsan), [Taiyi Pan](https://www.linkedin.com/in/taiyipan/), [Pratyaksh Prabhav Rao](https://praopratyaksh1.wixsite.com/pratyaksh10),
 
 New York University
