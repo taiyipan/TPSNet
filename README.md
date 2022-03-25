@@ -18,7 +18,7 @@ New York University
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#dependencies">Dependencies</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -76,7 +76,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 To reproduce the results and to download the model follow the procedure in this section. 
 
-### Prerequisites
+### Dependencies
 
 This project uses python. Hence python version 3.7.xx or higher should be installed. We recommend installing with Anaconda and adding it to the path of Windows. Git is also recommended to easily download files from GitHub. Alternatively you can also download the folder from GitHub directly. The links for both are given below
 * [Python](https://www.python.org/)
